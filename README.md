@@ -3,7 +3,7 @@ This repository contains lab assignments completed for the Advanced visual geome
 
 ## Overview
 
-The labs in this repository focus on various topics covered in the course, like image affine and metric rectification, estimation of fundamental matrix and 3D reconstruction, and visual odometry.
+The labs in this repository focus on various topics covered in the course, like image affine and metric rectification, estimation of fundamental matrix, 3D reconstruction and visual odometry.
 
 ## Contents
 
